@@ -1,95 +1,46 @@
-♻ Projeto_Y-Eco ♻
+# Getting Started with Create React App
 
-<h1 align="center"> ♻ Y-Eco-Projeto-Integrador ♻ 💧 </h1>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
- <p align="center">
-<img src="https://media.discordapp.net/attachments/888485261569323071/910520712140324874/logo_y-eco.08.JPG?width=601&height=406" style="width: 65%;">
-</p>
+## Available Scripts
 
-<h2>👨‍💻Tecnologias  utilizadas :<h2>
-<br>
-<table align="center" style=" width: 60%" >
-  <tr>
-    <td align="center">
-    <img  src="https://img.shields.io/badge/Java-5B4638?style=for-the-badge&logo=java&logoColor=white">
-    <td align="center">
-   <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-   <td align="center">
-   <img  src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-   <td align="center">
-     <img  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-   <td align="center">
-   <img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-     
+In the project directory, you can run:
 
-  <tr>
-   <td align="center">
-   <img  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-   <td align="center">
-   <img  src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
-   <td align="center">
-   <img  src="https://img.shields.io/badge/Visual_Studio-FFFF00?style=for-the-badge&logo=visual%20studio&logoColor=black">
-   <td align="center">
-   <img  src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-    <td align="center">
-   <tr>
-   <td align="center">
-   <img  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-   <td align="center">
-   <img  src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=whitee">
-   <td align="center">
-   <img  src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
-   <td align="center">
-   <img  src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-   <td align="center">
-     
-     
-  </tr>
-</table>
+### `yarn start`
 
-<br>
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-<br>
-  
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
+### `yarn test`
 
-<br>
-<br>
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `yarn build`
 
-<h2> DevTeams 💚</h2>
-  
-  <table align="center">
-  <tr>
-    <td align="center">
-    <img  src="https://avatars.githubusercontent.com/u/72945788?v=4" style="width: 100px; border-radius: 5%">
-    <h4><b>Raquel Santos</b></h4>
-      <a href="https://www.linkedin.com/in/raquel-santos-gomes-b21318187/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-      <a href="https://github.com/RaquelSantosG" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
-    <td align="center">
-    <img  src="https://avatars.githubusercontent.com/u/88937060?v=4" style="width: 100px; border-radius: 5%">
-    <h4><b>Bruno Muraro</b></h4>
-      <a href="https://www.linkedin.com/in/brunomuraros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-      <a href="https://github.com/Bmuraro" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
-    <td align="center">
-    <img  src="https://avatars.githubusercontent.com/u/57552535?v=4" style="width: 100px; border-radius: 5%">
-       <h4><b>Julio Balbino</b></h4>
-      <a href="https://www.linkedin.com/in/juliobalbino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-      <a href="https://github.com/juliobalbino" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
-   <td align="center">
-    <img  src="https://avatars.githubusercontent.com/u/89356698?v=4" style="width: 100px; border-radius: 5%">
-    <h4><b>Maysa Andrade</b></h4>
-     <a href="https://www.linkedin.com/in/maysa-andrade-maysa-andrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-      <a href="https://github.com/mays2pearl" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
-    <td align="center">
-    <img  src="https://avatars.githubusercontent.com/u/88987545?v=4" style="width: 100px; border-radius: 5%">
-    <h4><b>Márcio Rodrigues</b></h4>
-      <a href="https://www.linkedin.com/in/marciors92/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-      <a href="https://github.com/marciors92" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
-    <td align="center">
-  </tr>
-</table>
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `yarn eject`
 
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
