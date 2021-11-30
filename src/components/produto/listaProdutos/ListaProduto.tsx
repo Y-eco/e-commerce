@@ -3,9 +3,7 @@ import { Link, useHistory } from 'react-router-dom'
 import { Box, Card, CardActions, CardContent, Button, Typography } from '@material-ui/core';
 import './ListaProduto.css';
 import Produto from '../../../models/Produto';
-import useLocalStorage from 'react-use-localstorage';
 import { busca } from '../../../services/Service';
-import { BorderClear } from '@material-ui/icons';
 import { useSelector } from 'react-redux';
 import { toast } from 'react-toastify';
 import { UserState } from '../../../store/user/userReducer';

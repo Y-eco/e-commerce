@@ -2,8 +2,6 @@ import React, { useEffect, useState } from 'react'
 import { Link, useHistory } from 'react-router-dom'
 import { Box, Card, CardActions, CardContent, Button, Typography,Grid } from '@material-ui/core';
 import './UsuarioProduto.css';
-import useLocalStorage from 'react-use-localstorage';
-import { BorderClear } from '@material-ui/icons';
 import { useSelector } from 'react-redux';
 import { toast } from 'react-toastify';
 import { busca } from '../../services/Service';

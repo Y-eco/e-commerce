@@ -6,10 +6,6 @@ import { useHistory } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
 import { addTipo, addToken } from '../../../store/user/actions';
 import { toast } from 'react-toastify';
-import Button from '@mui/material/Button';
-import Menu from '@mui/material/Menu';
-import MenuItem from '@mui/material/MenuItem';
-import PopupState, { bindTrigger, bindMenu } from 'material-ui-popup-state';
 import BasicMenu from '../navbarMenu/navbarMenu';
 import { UserState } from '../../../store/user/userReducer';
 

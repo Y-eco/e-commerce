@@ -2,7 +2,6 @@ import React, { ChangeEvent, useEffect, useState }  from 'react'
 import { Container, Typography, TextField, Button, Select, InputLabel, FormControl, FormHelperText, MenuItem } from "@material-ui/core"
 import './CadastroProduto.css';
 import { useHistory, useParams } from 'react-router-dom';
-import useLocalStorage from 'react-use-localstorage';
 import Produto from '../../../models/Produto';
 import Categoria from '../../../models/Categoria';
 import { post, put, busca, buscaId} from '../../../services/Service';
